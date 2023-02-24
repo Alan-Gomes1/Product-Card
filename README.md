@@ -18,7 +18,7 @@ Página de produto desenvolvido para fins didáticos, para agregar conhecimento.
 <br>
 
 <p align="center">
-  <img alt="sofa" src="./img/sofa.gif" width="100%">
+  <img alt="sofa" src="./img/preview.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
